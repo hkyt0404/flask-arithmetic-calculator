@@ -1,4 +1,4 @@
-# 🧮 Flask Aeithmetic Calculator
+# 🧮 Flask Arithmetic Calculator
 
 A modern **Flask-based calculator** built using Python, HTML, CSS and JavaScript.
 
