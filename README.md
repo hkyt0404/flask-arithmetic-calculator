@@ -1,6 +1,6 @@
 # 🧮 Flask Scientific Calculator
 
-A modern **Flask-based scientific calculator** built using Python, HTML, CSS and JavaScript.
+A modern **Flask-based calculator** built using Python, HTML, CSS and JavaScript.
 
 ## 🚀 Features
 
